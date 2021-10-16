@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-14T13:37:09 IST" name="Default suite" finished-at="2021-10-14T13:40:07 IST" duration-ms="178357">
+    <groups>
+    </groups>
+    <test started-at="2021-10-14T13:37:09 IST" name="Default test" finished-at="2021-10-14T13:40:07 IST" duration-ms="178357">
+      <class name="rediffPOMTest.MyPorfolioTest">
+        <test-method signature="addPortfolioTest()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:37:09 IST" name="addPortfolioTest" finished-at="2021-10-14T13:37:59 IST" duration-ms="49789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPortfolioTest -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:37:59 IST" name="flushReports" finished-at="2021-10-14T13:37:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="deletePortfolio()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:37:59 IST" name="deletePortfolio" finished-at="2021-10-14T13:39:03 IST" duration-ms="64437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePortfolio -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:39:03 IST" name="flushReports" finished-at="2021-10-14T13:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+        <test-method signature="openPorfolio()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:39:03 IST" name="openPorfolio" finished-at="2021-10-14T13:40:07 IST" duration-ms="64054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPorfolio -->
+        <test-method is-config="true" signature="flushReports()[pri:0, instance:rediffPOMTest.MyPorfolioTest@61862a7f]" started-at="2021-10-14T13:40:07 IST" name="flushReports" finished-at="2021-10-14T13:40:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- rediffPOMTest.MyPorfolioTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
